@@ -1,0 +1,375 @@
+@media all and ( max-width: 1250px ){
+	.section-intro-container{
+		background-color: rgba(255,255,255,.4);
+	}
+
+	.left-right-block-fluid-width-text-content > h2{
+		font-size: 32px;
+		line-height: 42px;
+	}
+
+	.section-grey-block{
+		padding: 112px 40px 112px 40px;
+	}
+
+	.main-footer-content{
+		padding: 0 50px;
+	}
+
+	.section-product-intro-content-container > img{
+		opacity: .4;
+	}
+
+	.left-right-contact .left-right-block-fluid-width{
+		padding: 0 100px 0 50px;
+	}
+
+	.section-about-intro > img{
+		opacity: .4;
+	}
+
+	.team-list{
+		width: 794px;
+	}
+
+	.partners-list > li{
+		margin: 0 3px 10px 3px;
+	}
+
+	.left-right-block-technology .left-right-block-fluid-width-text-content > h2{
+		font-size: 32px;
+		line-height: 42px;
+	}
+
+	.left-right-block-technology .left-right-block-fluid-width{
+		padding: 0 50px;
+	}
+}
+
+@media all and ( max-width: 1023px ){
+	.section-intro-content{
+		padding: 0 50px;
+		text-align: center;
+	}
+
+	.left-right-block-fixed-width{
+		width: 100%;
+	}
+
+	.left-right-block-fluid-width{
+		width: 100%;
+		padding: 50px 50px 0 50px;
+	}
+
+	.section-grey-block-content-wrapper h2{
+		width: 100%;
+	}
+
+	.section-grey-block-content{
+		width: 100%;
+		padding: 30px 0 0 0;
+	}
+
+	.left-right-block-reverse .left-right-block-fluid-width{
+		padding: 50px 50px 0 50px;
+	}
+
+	.modal-main-menu-header .content-wrapper{
+		padding: 20px 0 0 0;
+	}
+
+	.team-list{
+		width: 530px;
+	}
+
+	.left-right-contact.left-right-block-reverse{
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: reverse;
+		    -ms-flex-direction: column-reverse;
+		        flex-direction: column-reverse;
+	}
+
+	.left-right-contact.left-right-block-reverse .left-right-block-fluid-width{
+		padding: 0 50px 50px 50px;
+	}
+
+	.product-advantages-list > li{
+		margin: 0 20px 15px 20px;
+	}
+
+	.section-demo-form .left-right-block{
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: reverse;
+		    -ms-flex-direction: column-reverse;
+		        flex-direction: column-reverse;
+	}
+
+	.left-right-block-fluid-width-text-content > h2{
+		margin: 0 0 60px 0;
+	}
+}
+
+@media all and ( max-width: 767px ){
+	.header-container{
+		padding: 0 20px;
+	}
+
+	.logo-header{
+		font-size: 0;
+	}
+
+	.menu-burger{
+		margin: 0 0 0 10px;
+	}
+
+	.modal-main-menu-header{
+		padding: 0 20px;
+	}
+
+	.modal-menu-large-list {
+		font-family: 'Libre Baskerville';
+		font-size: 32px;
+		line-height: 52px;
+	}
+
+	.modal-menu-nav-wrapper{
+		padding: 0 20px;
+	}
+
+	.modal-menu-small-list{
+		font-size: 22px;
+		line-height: 36px;
+	}
+
+	.section-intro-content{
+		padding: 0 20px;
+	}
+
+	.section-intro-container{
+		height: auto;
+		padding: 120px 0 0 0;
+	}
+
+	.section-intro-content > h1{
+		font-size: 32px;
+		line-height: 42px;
+	}
+
+	.section-intro-content > p{
+		font-size: 16px;
+		line-height: 26px;
+	}
+
+	.left-right-block-fluid-width {
+		padding: 20px 20px 0 20px;
+	}
+
+	.left-right-block-fluid-width-text-content > h2{
+		font-size: 26px;
+		line-height: 36px;
+		margin: 0 0 20px 0;
+	}
+
+	.left-right-block-fluid-width-text-content > p{
+		font-size: 16px;
+		line-height: 26px;
+	}
+
+	.section-grey-block-content-wrapper h2{
+		font-size: 32px;
+		line-height: 42px;
+	}
+
+	.section-grey-block{
+		padding: 100px 20px;
+	}
+
+	.section-grey-block-content{
+		font-size: 16px;
+		line-height: 26px;
+	}
+
+	.left-right-block-reverse .left-right-block-fluid-width{
+		padding: 20px 20px 0 20px;
+	}
+
+	.section-latest-from-blog h2{
+		font-size: 32px;
+		line-height: 42px;
+		padding: 0 20px;
+		margin: 0 0 30px 0;
+	}
+
+	.blog-list > li{
+		width: 100%;
+	}
+
+	.blog-list > li:first-of-type,
+	.blog-list > li{
+		margin: 0 0 50px 0;
+	}
+
+	.blog-list > li:last-of-type{
+		margin: 0;
+	}
+
+	.blog-list-item-img{
+		width: 100%;
+		height: 300px;
+		float: none;
+	}
+
+	.blog-list-item-img > img{
+		display: block;
+		width: 100%;
+		height: 100%;
+		-o-object-fit: cover;
+		   object-fit: cover;
+		font-family: 'object-fit: cover;';
+	}
+
+	.blog-list-item-info{
+		width: 100%;
+		padding: 20px;
+	}
+
+	.blog-list-item-info > h3{
+		font-size: 28px;
+		line-height: 38px;
+	}
+
+	.blog-list-item-info > p{
+		font-size: 16px;
+		line-height: 26px;
+	}
+
+	.section-latest-from-blog{
+		padding: 100px 0;
+	}
+
+	.main-footer{
+		padding: 50px 0;
+	}
+
+	.main-footer-content{
+		padding: 0 20px;
+		text-align: center;
+	}
+
+	.footer-up-left{
+		float: none;
+	}
+
+	.footer-up-right{
+		float: none;
+		margin: 10px 0 0 0;
+	}
+
+	.footer-up-right p{
+		text-align: center;
+	}
+
+	.footer-copy{
+		float: none;
+	}
+
+	.footer-socials{
+		float: none;
+		margin: 20px 0 0 0;
+	}
+
+	.footer-socials > li{
+		margin: 0 5px;
+	}
+
+	.section-about-intro-content{
+		position: static;
+	}
+
+	.section-about-intro-content-text{
+		padding: 0 20px;
+	}
+
+	.section-about-intro-content-text > h1{
+		font-size: 32px;
+		line-height: 42px;
+	}
+
+	.section-about-intro-content-text > p{
+		font-size: 16px;
+		line-height: 26px;
+	}
+
+	.section-team h2{
+		font-size: 28px;
+		line-height: 28px;
+		padding: 0 20px;
+		margin: 0 0 30px 0;
+	}
+
+	.team-list > li{
+		margin: 0 auto 40px auto;
+	}
+
+	.left-right-contact.left-right-block-reverse .left-right-block-fluid-width{
+		padding: 0 20px 20px 20px;
+	}
+
+	.left-right-contact .left-right-block-fluid-width-text-content > h2{
+		font-size: 32px;
+		line-height: 42px;
+	}
+
+	.product-demo-form{
+		padding: 30px 20px;
+	}
+
+	.contacts-map{
+		height: 300px;
+	}
+
+	.section-product-intro-content{
+		position: static;
+	}
+
+	.section-product-intro-content-wrapper{
+		padding: 0 20px;
+	}
+
+	.section-product-intro-content-wrapper > h1{
+		font-size: 32px;
+		line-height: 42px;
+	}
+
+	.section-product-intro-content-wrapper > p{
+		font-size: 16px;
+		line-height: 26px;
+	}
+
+	.product-advantages-list{
+		text-align: left;
+		padding: 20px 0 0 0;
+	}
+
+	.left-right-block{
+		margin: 80px auto;
+	}
+
+	.photo-quote{
+		font-size: 16px;
+		line-height: 26px;
+	}
+
+	.photo-quote span{
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	.left-right-block-technology{
+		margin: 0 auto 80px auto;
+	}
+
+	.product-advantages-list-technology{
+		margin: 20px 0 0 0;
+	}
+}

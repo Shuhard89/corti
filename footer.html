@@ -1,0 +1,93 @@
+	<footer class="main-footer">
+		<div class="content-wrapper">
+			<div class="main-footer-content">
+				<div class="footer-up clearfix">
+					<div class="footer-up-left">
+						<a href="#" class="footer-logo">
+							<img src="assets/img/icons/footer-logo.svg" alt="Some title">
+						</a>
+						<a href="mailto:team@corti.ai" class="footer-mail">team@corti.ai</a>
+					</div>
+					<div class="footer-up-right">
+						<p>Nørrebrogade 45E, 2 floor.<br>2200 Copenhagen N, Denmark</p>
+					</div>
+				</div>
+				<div class="footer-bottom clearfix">
+					<span class="footer-copy">&copy; 2017 Corti. All rights reserved.</span>
+					<ul class="footer-socials">
+						<li>
+							<a href="#" target="_blank">
+								<i class="fa fa-facebook" aria-hidden="true"></i>
+							</a>
+						</li>
+						<li>
+							<a href="#" target="_blank">
+								<i class="fa fa-pinterest-p" aria-hidden="true"></i>
+							</a>
+						</li>
+						<li>
+							<a href="#" target="_blank">
+								<i class="fa fa-twitter" aria-hidden="true"></i>
+							</a>
+						</li>
+						<li>
+							<a href="#" target="_blank">
+								<i class="fa fa-linkedin" aria-hidden="true"></i>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="js/libs/ofi.min.js"></script>
+	<script src="js/libs/jquery-3.2.1.min.js"></script>
+	<script src="js/libs/jquery-migrate-3.0.0.min.js"></script>
+	<script src="js/libs/jquery.mThumbnailScroller.min.js"></script>
+	<script src="js/main.js"></script>
+	<!-- Front Page -->
+	<script src="js/specific/frontpage.js"></script>
+	<!-- Contacts Page -->
+	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.js"></script>
+	<script>
+        mapboxgl.accessToken = 'pk.eyJ1Ijoic2tpbGUiLCJhIjoiY2o2dDZmZG9zMHQ2bjJ6bXNzZWwwem03ciJ9.HEGshjFaLjr4XseDcZyx3w'; // replace this with your access token
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/skile/cj6t6fi2c61uk2rmelawk063a',
+            center: [12.557, 55.689],
+            zoom: 15
+        });
+
+        var geojson = {
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            12.557335,
+                            55.688973
+                        ],
+                        "type": "Point"
+                    },
+                    "id": "d80b162a09b646bf38d334612bcb2f4b"
+                }
+            ],
+            "type": "FeatureCollection"
+        };
+
+        geojson.features.forEach(function(marker) {
+            // create a DOM element for the marker
+            var el = document.createElement('span');
+            el.className = 'marker';
+            el.style.width = 18 + 'px';
+            el.style.height = 18 + 'px';
+
+            // add marker to map
+            new mapboxgl.Marker(el)
+                .setLngLat(marker.geometry.coordinates)
+                .addTo(map);
+        });
+	</script>
+</body>
+</html>

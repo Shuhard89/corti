@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="564" height="530" viewBox="0 0 564 530">
+    <defs>
+        <path id="a" d="M0 0h564v530H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#F5F5F5" xlink:href="#a"/>
+        <g mask="url(#b)">
+            <g transform="translate(182 172)">
+                <circle cx="12" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="72" cy="52" r="12" fill="#D8D8D8"/>
+                <circle cx="92" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="22" cy="92" r="12" fill="#3042FF"/>
+                <circle cx="47" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 47 27)"/>
+                <circle cx="107" cy="67" r="7" fill="#D8D8D8" transform="rotate(180 107 67)"/>
+                <circle cx="127" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 127 27)"/>
+                <circle cx="57" cy="107" r="7" fill="#D8D8D8" transform="rotate(180 57 107)"/>
+            </g>
+        </g>
+        <g mask="url(#b)">
+            <g transform="translate(138 106)">
+                <circle cx="12" cy="12" r="12" fill="#95E0BB"/>
+                <circle cx="79" cy="43" r="12" fill="#95E0BB"/>
+                <circle cx="92" cy="12" r="12" fill="#95E0BB"/>
+                <circle cx="22" cy="92" r="12" fill="#D8D8D8"/>
+                <circle cx="54" cy="18" r="7" fill="#95E0BB" transform="rotate(180 54 18)"/>
+                <circle cx="107" cy="67" r="7" fill="#D8D8D8" transform="rotate(180 107 67)"/>
+                <circle cx="127" cy="27" r="7" fill="#95E0BB" transform="rotate(180 127 27)"/>
+                <circle cx="57" cy="107" r="7" fill="#D8D8D8" transform="rotate(180 57 107)"/>
+            </g>
+        </g>
+        <g mask="url(#b)">
+            <g transform="translate(292 311)">
+                <circle cx="12" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="61" cy="75" r="12" fill="#E0AE87"/>
+                <circle cx="92" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="22" cy="92" r="12" fill="#E0AE87"/>
+                <circle cx="47" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 47 27)"/>
+                <circle cx="107" cy="67" r="7" fill="#D8D8D8" transform="rotate(180 107 67)"/>
+                <circle cx="127" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 127 27)"/>
+                <circle cx="57" cy="107" r="7" fill="#E0AE87" transform="rotate(180 57 107)"/>
+            </g>
+        </g>
+        <g mask="url(#b)">
+            <g transform="translate(248 241)">
+                <circle cx="12" cy="16" r="12" fill="#D8D8D8"/>
+                <circle cx="72" cy="56" r="12" fill="#D8D8D8"/>
+                <circle cx="92" cy="16" r="12" fill="#D8D8D8"/>
+                <circle cx="22" cy="96" r="12" fill="#D8D8D8"/>
+                <circle cx="47" cy="31" r="7" fill="#D8D8D8" transform="rotate(180 47 31)"/>
+                <circle cx="107" cy="71" r="7" fill="#D8D8D8" transform="rotate(180 107 71)"/>
+                <circle cx="145" cy="7" r="7" fill="#FFBF32" transform="rotate(180 145 7)"/>
+                <circle cx="57" cy="111" r="7" fill="#D8D8D8" transform="rotate(180 57 111)"/>
+            </g>
+        </g>
+        <g mask="url(#b)">
+            <g transform="rotate(-165 172.147 166)">
+                <circle cx="12" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="72" cy="52" r="12" fill="#D8D8D8"/>
+                <circle cx="92" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="22" cy="92" r="12" fill="#BBB"/>
+                <circle cx="47" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 47 27)"/>
+                <circle cx="98.944" cy="63.982" r="7" fill="#3042FF" transform="rotate(180 98.944 63.982)"/>
+                <circle cx="127" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 127 27)"/>
+                <circle cx="57" cy="107" r="7" fill="#D8D8D8" transform="rotate(180 57 107)"/>
+            </g>
+            <g transform="rotate(-165 142.043 192.345)">
+                <circle cx="12" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="72" cy="52" r="12" fill="#D8D8D8"/>
+                <circle cx="92" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="22" cy="92" r="12" fill="#D8D8D8"/>
+                <circle cx="47" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 47 27)"/>
+                <circle cx="107" cy="67" r="7" fill="#D8D8D8" transform="rotate(180 107 67)"/>
+                <circle cx="127" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 127 27)"/>
+                <circle cx="70.92" cy="112.588" r="7" fill="#3042FF" transform="rotate(180 70.92 112.588)"/>
+            </g>
+            <g transform="rotate(-165 234.406 101.85)">
+                <circle cx="12" cy="12" r="12" fill="#FFBF32"/>
+                <circle cx="64.929" cy="64.247" r="12" fill="#D8D8D8"/>
+                <circle cx="92" cy="12" r="12" fill="#D8D8D8"/>
+                <circle cx="22" cy="92" r="12" fill="#D8D8D8"/>
+                <circle cx="47" cy="27" r="7" fill="#FFBF32" transform="rotate(180 47 27)"/>
+                <circle cx="107" cy="67" r="7" fill="#D8D8D8" transform="rotate(180 107 67)"/>
+                <circle cx="127" cy="27" r="7" fill="#D8D8D8" transform="rotate(180 127 27)"/>
+                <circle cx="57" cy="107" r="7" fill="#D8D8D8" transform="rotate(180 57 107)"/>
+            </g>
+            <g fill="#D8D8D8" transform="rotate(-165 204.303 128.195)">
+                <circle cx="12" cy="12" r="12"/>
+                <circle cx="72" cy="52" r="12"/>
+                <circle cx="92" cy="12" r="12"/>
+                <circle cx="22" cy="92" r="12"/>
+                <circle cx="47" cy="27" r="7" transform="rotate(180 47 27)"/>
+                <circle cx="107" cy="67" r="7" transform="rotate(180 107 67)"/>
+                <circle cx="127" cy="27" r="7" transform="rotate(180 127 27)"/>
+                <circle cx="57" cy="107" r="7" transform="rotate(180 57 107)"/>
+            </g>
+        </g>
+    </g>
+</svg>

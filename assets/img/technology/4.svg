@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="564" height="530" viewBox="0 0 564 530">
+    <defs>
+        <path id="a" d="M0 0h564v530H0z"/>
+        <linearGradient id="c" x1="100%" x2="6.019%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#3042FF"/>
+            <stop offset="100%" stop-color="#F5F5F5"/>
+        </linearGradient>
+        <circle id="d" cx="80" cy="80" r="80"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <g mask="url(#b)">
+            <g transform="translate(0 185)">
+                <path fill="url(#c)" fill-opacity=".3" d="M152 0h341v160H152z"/>
+                <use fill="#FFF" xlink:href="#d"/>
+                <circle cx="80" cy="80" r="79" stroke="#3042FF" stroke-width="2"/>
+                <text font-family="ProximaNovaA-Regular, Proxima Nova Alt" font-size="48">
+                    <tspan x="62" y="96" fill="#3042FF">Q</tspan>
+                </text>
+                <circle cx="484" cy="80" r="80" fill="#3042FF"/>
+                <text font-family="ProximaNovaA-Regular, Proxima Nova Alt" font-size="48">
+                    <tspan x="468.215" y="96" fill="#FFF">A</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

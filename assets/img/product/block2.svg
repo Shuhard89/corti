@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="564" height="530" viewBox="0 0 564 530">
+    <defs>
+        <path id="a" d="M0 0h564v530H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#88DCB2" style="mix-blend-mode:color" xlink:href="#a"/>
+        <g mask="url(#b)">
+            <path fill="#FFF" d="M411 298.333c0 13.378-10.845 24.223-24.222 24.223H241.444L193 371V177.222C193 163.845 203.845 153 217.222 153h169.556C400.155 153 411 163.845 411 177.222v121.111z" opacity=".22"/>
+            <g stroke="#FFF">
+                <g transform="translate(119 139)">
+                    <path stroke-dasharray="4" d="M30 3a5 5 0 0 1 5 5v40a5 5 0 0 0 5 5h10M3 3h27z"/>
+                    <circle cx="3" cy="3" r="2.5"/>
+                </g>
+                <g transform="translate(119 232)">
+                    <path stroke-dasharray="4" d="M30 3a5 5 0 0 1 5 5v40a5 5 0 0 0 5 5h10M3 3h27z"/>
+                    <circle cx="3" cy="3" r="2.5"/>
+                </g>
+                <g transform="matrix(1 0 0 -1 119 376)">
+                    <path stroke-dasharray="4" d="M30 3a5 5 0 0 1 5 5v40a5 5 0 0 0 5 5h10M3 3h27z"/>
+                    <circle cx="3" cy="3" r="2.5"/>
+                </g>
+            </g>
+            <g stroke="#FFF">
+                <g transform="matrix(-1 0 0 1 445 139)">
+                    <path stroke-dasharray="4" d="M30 3a5 5 0 0 1 5 5v40a5 5 0 0 0 5 5h10M3 3h27z"/>
+                    <circle cx="3" cy="3" r="2.5"/>
+                </g>
+                <g transform="matrix(-1 0 0 1 445 232)">
+                    <path stroke-dasharray="4" d="M30 3a5 5 0 0 1 5 5v40a5 5 0 0 0 5 5h10M3 3h27z"/>
+                    <circle cx="3" cy="3" r="2.5"/>
+                </g>
+                <g transform="rotate(180 222.5 188)">
+                    <path stroke-dasharray="4" d="M30 3a5 5 0 0 1 5 5v40a5 5 0 0 0 5 5h10M3 3h27z"/>
+                    <circle cx="3" cy="3" r="2.5"/>
+                </g>
+            </g>
+            <path fill="#FFF" d="M391 318.333c0 13.378-10.845 24.223-24.222 24.223H221.444L173 391V197.222C173 183.845 183.845 173 197.222 173h169.556C380.155 173 391 183.845 391 197.222v121.111z"/>
+        </g>
+    </g>
+</svg>
